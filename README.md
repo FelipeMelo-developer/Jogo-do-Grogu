@@ -1,6 +1,4 @@
-![Logo](https://seeklogo.com/images/G/grogu-capsule-logo-1DA0AAE035-seeklogo.com.png)
-
-# Jogo do Número Secreto do Grogu
+# Jogo do Número Secreto do Grogu <img src = "https://seeklogo.com/images/G/grogu-capsule-logo-1DA0AAE035-seeklogo.com.png" width="5%"> 
 
 Trata-se de um repositório para armazenar um jogo desenvolvido durante o curso de lógica da programação na Escola Tech Alura.
 
